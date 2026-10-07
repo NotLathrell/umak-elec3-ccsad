@@ -40,7 +40,7 @@ Number of addresses in that CIDR:
 
 Screenshot 1. Save it as `screenshot-1-subnets.png` in your folder. The image line below shows it.
 
-![Screenshot 1: subnet list](screenshot-1-subnets.png)
+<img width="1741" height="493" alt="screenshot-1-subnets" src="https://github.com/user-attachments/assets/b52cd4f3-a13e-4958-bdec-02ad8567c381" />
 
 
 ### A3. Available addresses
@@ -66,7 +66,8 @@ Something in it holds an address through a network interface. That could be an i
 
 Screenshot 2. Save it as `screenshot-2-routes.png` in your folder. The image line below shows it.
 
-![Screenshot 2: routes of the route table](screenshot-2-routes.png)
+<img width="1693" height="153" alt="screenshot-2-routes" src="https://github.com/user-attachments/assets/53f305c7-afda-4fb8-9443-7603c6e29a1a" />
+
 
 ### A5. Public or private
 
@@ -107,7 +108,8 @@ a NACL works at the subnet level, has allow and deny rules, is stateless, and ch
 
 Screenshot 3. Save it as `screenshot-3-network-acl.png` in your folder. The image line below shows it.
 
-![Screenshot 3: inbound rules of the network ACL](screenshot-3-network-acl.png)
+<img width="1686" height="150" alt="screenshot-3-networl-acl" src="https://github.com/user-attachments/assets/0ca356bb-4d08-4b91-af94-7e82a744b8a9" />
+
 
 ### A9. The default security group
 
@@ -153,7 +155,8 @@ Excalidraw
 
 Save your diagram as `vpc-diagram.png` in your folder. The image line below shows it.
 
-![B3: my VPC diagram](vpc-diagram.png)
+<img width="2048" height="1200" alt="vpc-diagram" src="https://github.com/user-attachments/assets/e9e142b0-af3e-486c-8995-3991937f00da" />
+
 
 ### B4. Predict a change
 
